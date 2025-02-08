@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Front-end Developer from Laguna, Philippines<br><br>                                           
+A Front-end Developer from Laguna, Philippines<br>                                        
 I write code that even I struggle to understand
 
 
