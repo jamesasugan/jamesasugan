@@ -3,6 +3,9 @@ A Front-end Developer from Laguna, Philippines<br>
 I write code that even I struggle to understand
 
 
+My goal is to study and learn new knowledge every single day through project-based learning
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/james-emmanuel-asugan-580528260/)  
 
