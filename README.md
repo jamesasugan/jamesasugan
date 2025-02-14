@@ -1,7 +1,6 @@
 # 💫 About Me:
-A Front-end Developer from Laguna, Philippines<br>                                        
+A Front-end Developer from Laguna, Philippines                                        
 I write code that even I struggle to understand
-
 
 My goal is to study and learn new knowledge every single day through project-based learning
 
