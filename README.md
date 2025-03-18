@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Front-end Developer from Laguna, Philippines<br><br>I write code that even I struggle to understand
+A Front-end Developer from Laguna, Philippines<br><br>Currently learning React and Framer Motion
 
 
 ## 🌐 Socials:
