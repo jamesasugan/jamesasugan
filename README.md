@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Asugan</h1>
+![image](https://github.com/user-attachments/assets/daa1a6db-aaca-4d14-831c-b1d3d803f531)<h1 align="center">Hi 👋, I'm James Asugan</h1>
 <h3 align="center">A passionate Front-end Developer from Laguna, Philippines</h3>
 
 - 🔭 I’m currently working on **Wordpress, Elementor**
@@ -27,7 +27,7 @@
 </a>  
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" alt="daisyui" width="40" height="40"/> 
 </a>  
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> 
 </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
 </a> 
