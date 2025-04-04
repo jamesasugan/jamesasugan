@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/daa1a6db-aaca-4d14-831c-b1d3d803f531)<h1 align="center">Hi 👋, I'm James Asugan</h1>
+<h1 align="center">Hi 👋, I'm James Asugan</h1>
 <h3 align="center">A passionate Front-end Developer from Laguna, Philippines</h3>
 
 - 🔭 I’m currently working on **Wordpress, Elementor**
