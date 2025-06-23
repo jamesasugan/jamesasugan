@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Wordpress, Elementor**
 
-- 🌱 I’m currently learning **React, NextJS, Framer Motion**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
