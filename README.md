@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Asugan</h1>
 <h3 align="center">A passionate Front-end Developer from Laguna, Philippines</h3>
 
-- 🔭 I’m currently working on **Wordpress, Elementor**
-
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
